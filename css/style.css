@@ -1363,14 +1363,15 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #336633;
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
-		text-align: center;
+		text-align: left;
 	}
 
 		#cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
 			color: inherit;
+			text-align: center;
 		}
 
 		#cta form {
